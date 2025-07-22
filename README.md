@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Kevin Onyango Wanga
 
-<!--
-**Kennettechnologies/Kennettechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at Kaimosi Friends University**  
+Currently studying Cybersecurity, Ethical Hacking, and Web/App Development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Specialties
+
+- **Cybersecurity & Ethical Hacking**
+  - Penetration Testing
+  - Network Security
+  - Vulnerability Assessment
+  - Tools: Wireshark, Nmap, Metasploit, Burp Suite
+  - Linux Systems, Python Scripting, Cyber Forensics
+
+- **Web & Mobile App Development**
+  - Frontend: HTML, CSS, JavaScript, React
+  - Backend: Node.js, PHP
+
+---
+
+## 🎨 Style
+
+- **Colorful & Professional**: I blend technical expertise with creative problem-solving.
+
+---
+
+## 🌟 Fun Fact
+
+> I can spot vulnerabilities in code faster than I can solve a Rubik’s cube—but I love both challenges!
+
+---
+
+## 💡 Motto
+
+> "Stay curious, stay secure."
+
+---
+
+Feel free to connect if you share an interest in cybersecurity, ethical hacking, or innovative web/app development!
