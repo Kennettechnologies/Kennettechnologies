@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kevin Onyango Wanga
 
 🎓 **Student at Kaimosi Friends University**  
-Currently studying Cybersecurity, Ethical Hacking, and Web/App Development.
+Currently studying and specialize in Cybersecurity & Ethical Hacking, and also skilled in  Web/App Development.
 
 ---
 
@@ -16,7 +16,8 @@ Currently studying Cybersecurity, Ethical Hacking, and Web/App Development.
 
 - **Web & Mobile App Development**
   - Frontend: HTML, CSS, JavaScript, React
-  - Backend: Node.js, PHP
+  - Backend: Node.js, Express.js, PHP,Python,Java
+  - Databases: Momgodb, SQL, PostgreSQL, MySQL
 
 ---
 
