@@ -38,12 +38,18 @@ Currently studying Cybersecurity, Ethical Hacking, and Web & App Development.
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Nmap-4682B4?logo=gnu-bash&logoColor=white" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Metasploit-000000?logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 <!-- Section Divider -->
