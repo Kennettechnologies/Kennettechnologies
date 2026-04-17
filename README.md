@@ -83,8 +83,8 @@ Currently studying Cybersecurity, Ethical Hacking, and Web & App Development.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinonyangowanga&show_icons=true&theme=radical" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinonyangowanga&layout=compact&theme=radical" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kennettechnologies&show_icons=true&theme=radical" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennettechnologies&layout=compact&theme=radical" height="165" alt="Top Languages"/>
 </p>
 
 <!-- Section Divider -->
